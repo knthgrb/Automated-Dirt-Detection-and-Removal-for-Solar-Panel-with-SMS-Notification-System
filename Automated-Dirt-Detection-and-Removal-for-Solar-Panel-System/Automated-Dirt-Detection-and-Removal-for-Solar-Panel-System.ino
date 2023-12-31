@@ -12,7 +12,7 @@ const int relayPin = 5;
 const int waterSensorPin = A0;
 
 // GSM module set-up
-const char* phone_number = "+639120904868"; // Replace with your phone number
+const char* phone_number = "+639xxxxxxxxx"; // Replace with your phone number
 
 Adafruit_TCS34725 tcs[4] = {
   Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_50MS, TCS34725_GAIN_16X),
