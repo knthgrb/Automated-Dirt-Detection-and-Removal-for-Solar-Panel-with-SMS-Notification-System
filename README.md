@@ -1,4 +1,4 @@
-# Automated Solar Panel Cleaning System with Dirt Detection and SMS Notifications
+# Automated Dirt Detection and Removal for Solar Panel with SMS Notification System
 
 ## Components:
 
