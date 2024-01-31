@@ -23,7 +23,7 @@ void loop() {
 void moveForward() {
   digitalWrite(motorAInput1, HIGH);
   digitalWrite(motorAInput2, LOW);
-  analogWrite(motorAEnablePin, 250); // Adjust speed by changing PWM value (0 to 255)
+  analogWrite(motorAEnablePin, 255); // Adjust speed by changing PWM value (0 to 255)
 }
 
 void stopMotor() {
